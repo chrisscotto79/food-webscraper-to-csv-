@@ -14,7 +14,7 @@ function syncReadFile(filename) {
 };
 
 
-function main(){
+
 
   console.log('Get Price Feed start up')
   function sleep(ms) {
@@ -42,15 +42,6 @@ function main(){
             console.log('Error/No File Found')
           }
 
-        
-        var myStringArray = [
-          '108213',
-          '235203',
-          '322873',
-          
-        ];
-
-        var arrayLength = myStringArray.length;
 
         var array = fs.readFileSync('productList.txt').toString().split("\n");
         
@@ -184,9 +175,6 @@ function main(){
 
   check();
 
-};
-
-module.exports = {main}
 
 
 
