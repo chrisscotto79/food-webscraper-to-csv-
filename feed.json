@@ -1,0 +1,26 @@
+[
+  {
+    "product": "Coca-Cola Classic Syrup Bag-in-Box",
+    "itemCode": " 322873",
+    "inventory": "3",
+    "price": "$96.99"
+  },
+  {
+    "product": "Ground Beef",
+    "itemCode": " 235203",
+    "inventory": "12",
+    "price": "$3.29"
+  },
+  {
+    "product": "Bone-In Chicken Wings",
+    "itemCode": " 108213",
+    "inventory": "2",
+    "price": "$84.99"
+  },
+  {
+    "product": "Redi-Shred Hashbrown Potatoes",
+    "itemCode": " 124672",
+    "inventory": "10",
+    "price": "$11.99"
+  }
+]
